@@ -8,7 +8,7 @@
 
 class Test
 {
-    public function b() {
-        echo 2;
+    public function a() {
+        echo 1;
     }
 }
