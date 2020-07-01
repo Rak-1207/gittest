@@ -9,6 +9,7 @@
 class Test
 {
     public function b() {
+        $a = 1;
         echo 2;
     }
 }
