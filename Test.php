@@ -12,4 +12,8 @@ class Test
         $a = 1;
         echo 2;
     }
+
+    public function c() {
+        echo 3;
+    }
 }
