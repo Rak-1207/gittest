@@ -16,4 +16,8 @@ class Test
     public function c() {
         echo 3;
     }
+
+    public function d() {
+        echo 4;
+    }
 }
