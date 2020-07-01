@@ -20,7 +20,7 @@ class Test
     public function d() {
         $a = 1;
         $aa2 = 133;
-        $c = 333;
+        $c = 1;
         echo 4;
     }
 }
